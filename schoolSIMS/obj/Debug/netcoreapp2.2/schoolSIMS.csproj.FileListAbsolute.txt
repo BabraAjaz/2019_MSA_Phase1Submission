@@ -1,0 +1,14 @@
+C:\Users\babra\OneDrive\Documents\MSA 2019\msa2019\MSASubmission\schoolSIMS\schoolSIMS\bin\Debug\netcoreapp2.2\schoolSIMS.deps.json
+C:\Users\babra\OneDrive\Documents\MSA 2019\msa2019\MSASubmission\schoolSIMS\schoolSIMS\bin\Debug\netcoreapp2.2\schoolSIMS.runtimeconfig.json
+C:\Users\babra\OneDrive\Documents\MSA 2019\msa2019\MSASubmission\schoolSIMS\schoolSIMS\bin\Debug\netcoreapp2.2\schoolSIMS.runtimeconfig.dev.json
+C:\Users\babra\OneDrive\Documents\MSA 2019\msa2019\MSASubmission\schoolSIMS\schoolSIMS\bin\Debug\netcoreapp2.2\schoolSIMS.dll
+C:\Users\babra\OneDrive\Documents\MSA 2019\msa2019\MSASubmission\schoolSIMS\schoolSIMS\bin\Debug\netcoreapp2.2\schoolSIMS.pdb
+C:\Users\babra\OneDrive\Documents\MSA 2019\msa2019\MSASubmission\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.csprojAssemblyReference.cache
+C:\Users\babra\OneDrive\Documents\MSA 2019\msa2019\MSASubmission\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.csproj.CoreCompileInputs.cache
+C:\Users\babra\OneDrive\Documents\MSA 2019\msa2019\MSASubmission\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.RazorAssemblyInfo.cache
+C:\Users\babra\OneDrive\Documents\MSA 2019\msa2019\MSASubmission\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.RazorAssemblyInfo.cs
+C:\Users\babra\OneDrive\Documents\MSA 2019\msa2019\MSASubmission\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.AssemblyInfoInputs.cache
+C:\Users\babra\OneDrive\Documents\MSA 2019\msa2019\MSASubmission\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.AssemblyInfo.cs
+C:\Users\babra\OneDrive\Documents\MSA 2019\msa2019\MSASubmission\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.RazorTargetAssemblyInfo.cache
+C:\Users\babra\OneDrive\Documents\MSA 2019\msa2019\MSASubmission\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.dll
+C:\Users\babra\OneDrive\Documents\MSA 2019\msa2019\MSASubmission\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.pdb

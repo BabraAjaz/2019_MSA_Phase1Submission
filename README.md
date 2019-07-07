@@ -1,6 +1,8 @@
 # 2019MSA
 Repository for submission for MSA 2019
 
+I completed the Databases and APIs mini-project
+
 The folder named **Screenshots** has the required screenshots of the following:
 1. SQL Database through Query Editor via Azure Portal
 2. Swagger UI showing your RESTful API

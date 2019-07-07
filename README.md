@@ -9,6 +9,7 @@ The folder named **Screenshots** has the required screenshots of the following:
 The repository also contains the Visual Studio project that has all the code that was used to produce the project.
 
 The username for the SQL database on Azure is : **baja156**
+
 The password for the SQL database on Azure is : **Babra1234**
 
 
